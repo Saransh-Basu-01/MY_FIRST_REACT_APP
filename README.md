@@ -44,10 +44,9 @@ npm install
 
 # Step 4: Start the development server
 npm run dev
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
+```
+project struture
+```
 src/
 │
 ├── Counter.jsx
@@ -56,7 +55,7 @@ src/
 ├── FakePostGenerator.jsx
 ├── App.jsx
 └── main.jsx
-
+```
 ---
 
 Let me know if you’d like help adding screenshots or deploying it online (e.g., using Vercel or Netlify)!
